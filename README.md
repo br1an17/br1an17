@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Roberto Brian Paez</h1>
-<h3 align="center">Desarrollador Full Stack | Estudiante de Ingeniería / Tecnicatura de Software | QA & IA</h3>
+<h3 align="center">Desarrollador Full Stack junior | Estudiante de Tecnicatura superior en Desarrollo Software | QA & IA</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/brian-paez" target="blank">
