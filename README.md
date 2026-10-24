@@ -17,7 +17,7 @@
 - 🎓 Cursando el **2.º año de la Tecnicatura Superior en Desarrollo de Software** en el **IFTS N°29**.
 - 💻 Desarrollador con experiencia en **Full Stack**, **QA Automation (Selenium, Pytest)** y **Evaluación / Entrenamiento de Modelos de IA**.
 - 🏆 **Hito destacado:** Lideré un equipo de 8 personas para desarrollar **NABIJASH**, premiado como **Mejor Proyecto** entre 12 equipos en la cohorte 31 de Soy Henry (2023).
-- 🛠️ Enfocado en construir soluciones robustas utilizando **.NET / C#, React, TypeScript, Node.js, Python y bases de datos SQL**.
+- 🛠️ Enfocado en construir soluciones robustas utilizando **.NET / C#, React, TypeScript, Node.js y bases de datos SQL**.
 - ⚡ **Habilidades blandas:** Liderazgo de equipos, perseverancia, resolutividad y aprendizaje continuo.
 
 ---
